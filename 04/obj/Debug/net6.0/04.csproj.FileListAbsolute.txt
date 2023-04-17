@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\bin\Debug\net6.0\04.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\bin\Debug\net6.0\04.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\bin\Debug\net6.0\04.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\bin\Debug\net6.0\04.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\bin\Debug\net6.0\04.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\refint\04.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\04.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos_AT\PB\estagio.teste\04\obj\Debug\net6.0\ref\04.dll
